@@ -1,6 +1,6 @@
 update-back-android:
-	cp -rf Build/Android/unityLibrary/SnakatPermissions.androidlib/* Assets/Plugins/Android/SnakatPermissions.androidlib/
-	rm -rf Assets/Plugins/Android/SnakatPermissions.androidlib/build
+	cp -rf Build/Android/unityLibrary/SnakatPermission.androidlib/* Assets/Plugins/Android/SnakatPermission.androidlib/
+	rm -rf Assets/Plugins/Android/SnakatPermission.androidlib/build
 
 update-back-ios:
-	cp Build/iOS/Libraries/Plugins/iOS/SnakatPermissions/* Assets/Plugins/iOS/SnakatPermissions/
+	cp Build/iOS/Libraries/Plugins/iOS/SnakatPermission/* Assets/Plugins/iOS/SnakatPermission/

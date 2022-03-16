@@ -1,2 +1,2 @@
 # snakat-permission
-An Unity plugin for permissions manager
+An Unity plugin for permission manager.
