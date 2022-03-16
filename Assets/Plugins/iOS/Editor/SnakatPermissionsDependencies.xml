@@ -1,0 +1,80 @@
+
+<dependencies>
+  <iosPods>
+    <iosPod name="Permission/Bluetooth" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Camera" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Microphone" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Contacts" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Events" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Reminders" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Location" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Location" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Motion" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Notifications" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Photos" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/MediaLibrary" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/SpeechRecognizer" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/Siri" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+    <iosPod name="Permission/AppTrackingTransparency" addToAllTargets="false">
+      <sources>
+        <source>https://github.com/snakat/CocoaPods.git</source>
+      </sources>
+    </iosPod>
+  </iosPods>
+</dependencies>

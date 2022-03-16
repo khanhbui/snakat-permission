@@ -1,0 +1,163 @@
+{
+    "Permissions": [
+        {
+            "Name": "Bluetooth",
+            "Enabled": true,
+            "Flag": "PERMISSION_BLUETOOTH",
+            "UsageDescriptionKeys": [],
+            "UsageDescriptionValues": []
+        },
+        {
+            "Name": "Camera",
+            "Enabled": true,
+            "Flag": "PERMISSION_CAMERA",
+            "UsageDescriptionKeys": [
+                "NSCameraUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "kaka"
+            ]
+        },
+        {
+            "Name": "Microphone",
+            "Enabled": true,
+            "Flag": "PERMISSION_MICROPHONE",
+            "UsageDescriptionKeys": [
+                "NSMicrophoneUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "keke"
+            ]
+        },
+        {
+            "Name": "Contacts",
+            "Enabled": true,
+            "Flag": "PERMISSION_CONTACTS",
+            "UsageDescriptionKeys": [
+                "NSContactsUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "kiki"
+            ]
+        },
+        {
+            "Name": "Events",
+            "Enabled": true,
+            "Flag": "PERMISSION_EVENTS",
+            "UsageDescriptionKeys": [
+                "NSCalendarsUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "koko"
+            ]
+        },
+        {
+            "Name": "Reminders",
+            "Enabled": true,
+            "Flag": "PERMISSION_REMINDERS",
+            "UsageDescriptionKeys": [
+                "NSRemindersUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "haha"
+            ]
+        },
+        {
+            "Name": "Location",
+            "Enabled": true,
+            "Flag": "PERMISSION_LOCATION",
+            "UsageDescriptionKeys": [
+                "NSLocationAlwaysUsageDescription",
+                "NSLocationWhenInUseUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "hehe",
+                "hihi"
+            ]
+        },
+        {
+            "Name": "Location",
+            "Enabled": true,
+            "Flag": "PERMISSION_LOCATION",
+            "UsageDescriptionKeys": [
+                "NSLocationAlwaysUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "hehe"
+            ]
+        },
+        {
+            "Name": "Motion",
+            "Enabled": true,
+            "Flag": "PERMISSION_MOTION",
+            "UsageDescriptionKeys": [
+                "NSMotionUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "hoho"
+            ]
+        },
+        {
+            "Name": "Notifications",
+            "Enabled": true,
+            "Flag": "PERMISSION_NOTIFICATIONS",
+            "UsageDescriptionKeys": [],
+            "UsageDescriptionValues": []
+        },
+        {
+            "Name": "Photos",
+            "Enabled": true,
+            "Flag": "PERMISSION_PHOTOS",
+            "UsageDescriptionKeys": [
+                "NSPhotoLibraryUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "lala"
+            ]
+        },
+        {
+            "Name": "MediaLibrary",
+            "Enabled": true,
+            "Flag": "PERMISSION_MEDIA_LIBRARY",
+            "UsageDescriptionKeys": [
+                "NSAppleMusicUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "lele"
+            ]
+        },
+        {
+            "Name": "SpeechRecognizer",
+            "Enabled": true,
+            "Flag": "PERMISSION_SPEECH_RECOGNIZER",
+            "UsageDescriptionKeys": [
+                "NSSpeechRecognitionUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "lili"
+            ]
+        },
+        {
+            "Name": "Siri",
+            "Enabled": true,
+            "Flag": "PERMISSION_SIRI",
+            "UsageDescriptionKeys": [
+                "NSSiriUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "lolo"
+            ]
+        },
+        {
+            "Name": "AppTrackingTransparency",
+            "Enabled": true,
+            "Flag": "PERMISSION_APP_TRACKING_TRANSPARENCY",
+            "UsageDescriptionKeys": [
+                "NSUserTrackingUsageDescription"
+            ],
+            "UsageDescriptionValues": [
+                "papa"
+            ]
+        }
+    ]
+}
